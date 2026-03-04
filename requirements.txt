@@ -1,0 +1,4 @@
+# Dependencies
+rich           # For nice console logs
+asyncio        # Built-in async tasks
+pydantic       # For workflow schema validation
