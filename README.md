@@ -1,40 +1,60 @@
-# 🚀 Sentix
+# 🧠 Sentix
 
-Build, deploy, and observe multi-agent workflows with sequential, concurrent, and hierarchical patterns — featuring real-time streaming and full observability.  
+Build, deploy, and observe multi-agent workflows with sequential, concurrent, and hierarchical patterns — with real-time streaming and full observability.
 
-Sentix enables you to design **structured**, **scalable**, and **easy-to-monitor** multi-agent systems — ideal for orchestrating complex tasks, AI pipelines, and automated workflows.  
+🔗 Website: https://sentix.technology  
+🔗 Twitter: https://x.com/SentixChain
+
+CA pump.fun : xxxxxxxxxxpump
+---
+
+## 🚀 What is Sentix?
+
+Sentix is a powerful framework for designing, running, and monitoring **multi-agent workflows**. Whether you're orchestrating agents sequentially, concurrently, or in hierarchical structures, Sentix gives you full control and visibility — with real-time streaming and observability built in.
 
 ---
 
-## 📌 Key Features
+## ✨ Key Features
 
-✨ **Multi-Agent Workflows**  
-Create workflows with multiple agents using patterns like:  
-- 📍 Sequential  
-- 🔄 Concurrent  
-- 📚 Hierarchical  
+- 🧩 **Composable Multi-Agent Workflows**  
+  Create complex workflows using sequential, concurrent, and nested agent patterns.
 
-📡 **Real-Time Streaming**  
-Monitor data, logs, and execution status **live**, without manual refresh.  
+- 🔄 **Real-Time Streaming**  
+  Dispatch and consume agent outputs in real-time, enabling low-latency interaction.
 
-📊 **Full Observability**  
-Comprehensive monitoring tools include:  
-- Workflow visualization  
-- Centralized logging  
-- Tracing and metrics  
+- 📊 **Full Observability**  
+  Track execution, logs, and results throughout workflows to simplify debugging and monitoring.
 
-⚡ **Easy Deployment**  
-Quick installation and deployment via CLI or CI/CD pipelines.  
+- 🚀 **Scalable Deployment**  
+  Designed for production-ready environments with flexible deployment options.
 
 ---
 
-## 🧠 Use Cases
+## 🛠️ Capabilities
 
-✅ Automated task orchestration (AI pipelines, data workflows)  
-✅ Parallel processing and distributed workloads  
-✅ Monitoring complex executions and quick debugging  
-✅ Integration across services and microservices  
+| Capability | Description |
+|------------|-------------|
+| **Sequential Patterns** | Run agents in order, passing outputs downstream |
+| **Concurrent Patterns** | Execute multiple agents in parallel |
+| **Hierarchical Flows** | Support nested orchestrations with clear execution structure |
+| **Streaming I/O** | Monitor streaming data from active agents |
+| **Observability Tools** | Logs, metrics, traces, and workflow visualization (coming soon) |
 
 ---
 
-## 🧱 Architecture
+## 📦 Getting Started
+
+### Prerequisites
+
+Before installing, ensure you have:
+
+- Python 3.9+ or your preferred runtime environment
+- Docker (for containerized deployments)
+- Internet connection for dependency installation
+
+### Installation
+
+```bash
+git clone https://github.com/<your-username>/sentix.git
+cd sentix
+npm install    # or equivalent
