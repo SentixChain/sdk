@@ -5,7 +5,7 @@ Build, deploy, and observe multi-agent workflows with sequential, concurrent, an
 🔗 Website: https://sentix.technology  
 🔗 Twitter: https://x.com/SentixChain
 
-CA pump.fun : xxxxxxxxxxpump
+CA pump.fun : 99tZwLPBrznEs5SWsQiz92qR1bE9LwPrAubqwnMgpump
 ---
 
 ## 🚀 What is Sentix?
